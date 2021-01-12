@@ -1,5 +1,5 @@
 # Surviv.io Custom Sounds Repository
-Welcome to the custom guns sound. The guns sound is from Phantom Force of Roblox. Hope you like it!!! 
+Welcome to the custom guns sound. The guns sound is from [Phantom Force](https://www.roblox.com/games/292439477/1B-Visits-Phantom-Forces) of [Roblox](https://www.roblox.com/). Hope you like it!!! 
 # Installation
 Step 1: You need add the [Resource Override](https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii) from Chrome.
 
